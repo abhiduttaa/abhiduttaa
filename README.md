@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript,React,Express.js**
 
-- 👨‍💻 All of my projects are available at [https://abhiduttaa.github.io/portfoliowebsiteusinghtml/]([https://abhiduttaa.github.io/portfoliowebsiteusinghtml/)](https://abhiduttaa.github.io/MyPortfolioWebsite/)
+- 👨‍💻 All of my projects are available at [https://abhiduttaa.github.io/portfoliowebsiteusinghtml/]([https://abhiduttaa.github.io/portfoliowebsiteusinghtml/)]([https://abhiduttaa.github.io/MyPortfolioWebsite/](https://abhiduttaa.github.io/AbhijitPortfolio/))
 
 - 📫 How to reach me **ad3052056@gmail.com**
 
