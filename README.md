@@ -33,56 +33,6 @@ I'm Abhijit Dutta, a Computer Science enthusiast passionate about building pract
 
 ---
 
-## 🔥 Featured & Recent Projects
-
-Here are some of the projects I'm working on and have developed.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ Cyber Friend – ThreatGuard
-
-An AI-powered cybersecurity project designed to identify suspicious messages, phishing links, URLs and potential online scams.
-
-**Tech:** Python, Flask, Gemini API, Bootstrap.
-
-[View Project →](https://github.com/abhiduttaa/Cyber_Friend)
-
-</td>
-<td width="50%">
-
-### 🚗 Car Accident Detection
-
-Developing a deep learning-based accident detection system using LSTM to identify accident-related patterns in sequential data.
-
-**Tech:** Python, Deep Learning, LSTM.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📩 Spam & Ham Classifier
-
-A machine learning project that classifies messages into spam and ham categories using Natural Language Processing.
-
-**Tech:** Python, NLP, Scikit-learn, Multinomial Naive Bayes.
-
-</td>
-<td width="50%">
-
-### ⚛️ Quantum Computing Research
-
-Exploring quantum computing concepts, quantum cryptography, QKD and post-quantum cryptographic algorithms.
-
-**Tech:** Qiskit, Python, Quantum Algorithms.
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🧰 Tech Stack & Tools
 
